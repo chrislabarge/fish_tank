@@ -1,0 +1,22 @@
+{
+  "name": "fish_tank",
+  "version": "1.0.0",
+  "description": "Fish tank application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrislabarge/fish_tank.git"
+  },
+  "author": "Chris LaBarge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrislabarge/fish_tank/issues"
+  },
+  "homepage": "https://github.com/chrislabarge/fish_tank",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
